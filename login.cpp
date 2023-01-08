@@ -7,7 +7,7 @@ void username_check();
 void password_check();
 void add_username();
 
-string userDB[128][2] = {{"FBI", "open up"}, {"god", "open"}};
+string userDB[128][2] = {{"FBI", "open up"}, {"huh", "okay"}};
 bool stateAddUser = false;
 
 int main()
